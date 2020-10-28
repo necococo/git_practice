@@ -6,6 +6,12 @@
         <div class="text-center">
             <h1>Welcome to the Tasklist</h1>
             <p>aaaaa</p>
+            <ul>
+                <li>bbbbbbb</li>
+                <li>bbbbbbb</li>
+                <li>bbbbbbb</li>
+                <li>bbbbbbb</li>
+            </ul>
         </div>
     </div>
     
